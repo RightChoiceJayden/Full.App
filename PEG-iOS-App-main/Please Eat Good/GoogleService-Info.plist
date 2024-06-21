@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1015297859793-jpjq92atq5p931bupesa7kt8qvb4n8dr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1015297859793-jpjq92atq5p931bupesa7kt8qvb4n8dr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYWKT2PYEFR29AX_Q1WUcmxTke3Ao60vI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1015297859793</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eat.good.please</string>
+	<key>PROJECT_ID</key>
+	<string>please-eat-good</string>
+	<key>STORAGE_BUCKET</key>
+	<string>please-eat-good.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1015297859793:ios:3a46bbbaa49f49240c65f0</string>
+</dict>
+</plist>
